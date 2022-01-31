@@ -1,2 +1,1 @@
-# theguacamoles.github.io
-The Guacamoles Website
+Welcome to the new home of The Guacamoles
