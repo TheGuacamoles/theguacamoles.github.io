@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="refresh" content="0; url=https://theguacamoles.carrd.co/">
         <script type="text/javascript">
-            window.location.href = "http://example.com"
+            window.location.href = "https://theguacamoles.carrd.co/"
         </script>
         <title>Page Redirection</title>
     </head>
